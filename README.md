@@ -33,7 +33,7 @@ You can set up PitViewGroup in simple way:
     }
 ```
 
-### Example 2 (predefine points add button):
+### Example 2 (predefine points):
 
 ```
 
@@ -61,6 +61,9 @@ You can set up PitViewGroup in simple way:
         pitViewGroup.addNewPoint();
     }
    ```
+In project is two examples:
+ - PitViewGroup built in Activity;
+ - PitViewGroup built in Fragment.
 
 ## Authors
 
