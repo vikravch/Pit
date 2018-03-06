@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PitExample</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_pit_view">PitViewActivity</string>
+    <string name="title_activity_pit_in_fragment">PitInFragmentActivity</string>
+    <string name="button_open_pit_view_activity">Open PitViewActivity</string>
+    <string name="button_open_pit_in_fragment_activity">Open PitInFragment</string>
+</resources>
